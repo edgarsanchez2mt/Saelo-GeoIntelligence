@@ -1,0 +1,53 @@
+
+====================================================
+
+SAELO GEO INTELLIGENCE
+
+====================================================
+
+Gracias por revisar esta demostración.
+
+Este paquete contiene:
+
+----------------------------------------------------
+
+Mapa_Interactivo.html
+
+Abra este archivo con:
+
+• Google Chrome
+
+• Microsoft Edge
+
+• Mozilla Firefox
+
+No necesita instalar ningún programa.
+
+----------------------------------------------------
+
+Mapa_Calor.png
+
+Imagen del mapa generado por la plataforma.
+
+----------------------------------------------------
+
+Logo_Saelo.png
+
+Logo corporativo.
+
+----------------------------------------------------
+
+Generado:
+
+24/07/2026 06:44
+
+====================================================
+
+Desarrollado por
+
+SAELO
+Asistencia & Transporte
+
+www.saelo.co
+
+====================================================
